@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # cypress test result files
 cypress
 
@@ -182,3 +183,7 @@ $RECYCLE.BIN/
 
 
 # End of https://www.gitignore.io/api/vim,code,linux,macos,windows,sublimetext,node
+=======
+secrets.txt
+node_modules/
+>>>>>>> ad96809f8df0a3a00de453b7de61bf4460d8c54c
