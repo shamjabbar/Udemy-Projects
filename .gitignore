@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # cypress test result files
 cypress
 
@@ -116,7 +115,6 @@ typings/
 # dotenv environment variables file
 .env
 
-
 ### SublimeText ###
 # cache files for sublime text
 *.tmlanguage.cache
@@ -181,9 +179,5 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-
 # End of https://www.gitignore.io/api/vim,code,linux,macos,windows,sublimetext,node
-=======
 secrets.txt
-node_modules/
->>>>>>> ad96809f8df0a3a00de453b7de61bf4460d8c54c
